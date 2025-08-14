@@ -1,6 +1,6 @@
 # Split Bill
 
-Aplikasi web sederhana untuk menghitung pembagian tagihan (split bill) menggunakan **HTML, CSS, dan JavaScript murni**.  
+web sederhana untuk menghitung pembagian tagihan (split bill) menggunakan **HTML, CSS, dan JavaScript murni**.  
 Dibuat untuk kebutuhan tugas kuliah dengan desain **UI/UX modern**, kombinasi warna **putih & hitam**,  
 serta dilengkapi **animasi progress bar** yang membuat tampilannya lebih interaktif.
 
