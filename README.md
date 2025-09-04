@@ -19,9 +19,9 @@ serta dilengkapi **animasi progress bar** yang membuat tampilannya interaktif.
 
 ## Teknologi yang Digunakan
 
-- **HTML5** → struktur halaman.
-- **CSS3** → desain UI/UX modern, responsif, dan animasi.
-- **JavaScript (Vanilla JS)** → logika perhitungan dan manajemen data.
+- **HTML** → struktur halaman.
+- **CSS** → desain UI/UX modern, responsif, dan animasi.
+- **JavaScript** → logika perhitungan dan manajemen data.
 - **LocalStorage** → penyimpanan data di browser tanpa database eksternal.
 
 ---
